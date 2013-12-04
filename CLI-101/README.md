@@ -12,7 +12,7 @@ TODO:
 * branches of curriculum and customization (non-linear curriculum)
   1. starting with say command
   2. starting with ssh and open commands 
-  3. starting with command line chat utilities
+  3. starting with irssi or command-line-chat utilies
 
 
 Create Resources Directory : 
