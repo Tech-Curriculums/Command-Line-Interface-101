@@ -15,6 +15,26 @@ TODO:
   3. starting with irssi or command-line-chat utilies
 
 
+Order of Operations:
+---
+* ssh
+* say
+* open
+* irssi
+* wget
+* vim
+* cronjobs
+* tmux
+* apt-get
+* brew install
+* port install
+* python-setuptools
+* easy_install
+* git command line interface
+
+
+
+
 Create Resources Directory : 
 
 * http://linux-commands-examples.com/
