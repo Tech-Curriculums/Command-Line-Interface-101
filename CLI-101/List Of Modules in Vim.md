@@ -37,7 +37,7 @@ __(`*` means every)__
 wakes me up everyday at 7am:
 
 ```bash
-0 7 * * * say -v Zarvox "Sup Dude, es la hora para subrirse"`
+0 7 * * * say -v Zarvox "Sup Dude, es la hora para subrirse"
 ```
 
 you can plug in any command into command-line-command that you can use from the terminal.
