@@ -17,6 +17,7 @@
 `v` the visual mode, will get to this later
 
 
+
 ### Project: Setting a Crontab
 
 create an alarm for yourself by typing in `crontab -e` into the command line.
@@ -40,6 +41,24 @@ you can plug in any command into command-line-command that you can use from the 
 There is a terminal command for ANYTHING you can do with a computer. (play music, visit websites, make tweets, click on links, etc.)
 
 Therefore you can schedule your computer to do ANYTHING at any minute, any day, month, repeatedly or one time.
+
+### wrap up
+
+#### neat shortcuts:
+
+Here are some easy to remember shortcuts:
+
+**@yearly**, **@midnight**, **@hourly**, **@reboot**
+
+```bash
+@yearly say "happy new year!"
+@midnight say "Boo!"
+@hourly say `date`
+@reboot say "I am in your computer, controlling your crontabs"
+```
+
+
+---
 
 ## Movement
 
