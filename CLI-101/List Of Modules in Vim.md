@@ -13,7 +13,9 @@
 ## Modes
 
 `i`  insert mode
+
 `<esc>` back to normal mode
+
 `v` the visual mode, will get to this later
 
 
