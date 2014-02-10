@@ -1,9 +1,22 @@
+## Introduction to VIM
+
+
+- Ubiquity
+  - is the default for most systems
+  - Sublime
+  - Eclipse
+  - JetBrains
+- Programming Culture
+- Increases the speed of your C0d1n9
+
 
 ## Modes
 
 `i`  insert mode
 `<esc>` back to normal mode
 `v` the visual mode, will get to this later
+
+
 
 ## Movement
 
