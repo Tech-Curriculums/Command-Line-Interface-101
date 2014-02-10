@@ -1,4 +1,3 @@
-
 Sometimes you will want to execute the file you're writing.
 
 If you are just writing a scripting language (python, bash, sh, zsh)
