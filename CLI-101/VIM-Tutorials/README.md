@@ -61,6 +61,25 @@ command mode substitution
 search and do with the . macro.
 
 
+Programming in Vim:
+
+Simple python hello world.
+Simple bash script -- check for word appearance
+Simple c program.
+Simple Arduino program
+
+Using vim with git:
+
+git init -- starts keeping track of changes (allows you to take snapshots)
+git remote add name_of_remote url
+
+git add *
+git commit 
+git push origin master
+
+
+
+
 
 
 
