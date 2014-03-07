@@ -34,6 +34,13 @@ Lesson Plan
 
 Other commands
 * set paste
+* 
+
+Why would you use vim?
+
+Activity 4:
+
+Sshing into a server and messing with the text.
  
 
 
