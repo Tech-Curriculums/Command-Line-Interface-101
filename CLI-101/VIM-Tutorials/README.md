@@ -29,8 +29,44 @@ Lesson Plan b:
 * set nowrap
 * visualize spaces (important for python and html)
 
-Lesson Plan
 
+Lesson Plan:
+
+Copypasta And Selection in vim:
+
+yank direction
+delete direciton
+
+yank line (twice means do for line)
+cut line
+
+Selection -- Visual mode
+
+
+p for paste -- or P for paste
+
+pasting inline, pasting before, pasting after
+
+
+Mass editing:
+
+macros
+* running in series
+* running in parallel
+
+discussion
+
+command mode substitution
+
+search and do with the . macro.
+
+
+
+
+
+
+
+Lesson Plan
 
 Other commands
 * set paste
