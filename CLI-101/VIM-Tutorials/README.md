@@ -1,3 +1,43 @@
+supplementary material.
+
+Vim is cool becuase there is so much we can do with it, and basic level is not that bad.
+
+Lesson Plan:
+
+1. opening vim (or apt-getting it)
+2. getting into insert mode
+3. writing a file in insert mode
+4. getting back to normal mode with ESC
+5. writing
+6. Getting back into insert mode
+7. wq for save and quit
+
+First for a bash script with say and open commands
+then for crontab
+
+Field trip: Unnamed Unix Operating system store
+
+Lesson Plan b:
+
+.vimrc file
+
+* autoindent on
+* set number
+* set wrap
+* set nowrap
+
+
+Other commands
+* set paste
+ 
+
+
+Starting commands:
+
+fast moving in normal mode
+
+getting to and from insert mode
+
 
 
 
