@@ -17,6 +17,27 @@ then for crontab
 
 Field trip: Unnamed Unix Operating system store
 
+Lesson plan 2:
+
+picking up where you left off: `marks
+
+use `m` then any letter to set a mark
+`ma` makes `a` a mark
+
+use `'a` to zoom to that mark
+
+use capital letters to set a global mark -- this is the fastest way of zooming between files!!!
+
+Super powerful (you don't really need to leave vim).
+
+Pick up where you left off:
+
+use ``"` to go to the last place in the file you were editing -- saves a ton of time :thumbsup:
+
+
+Lesson
+
+
 Lesson Plan b:
 
 .vimrc file
