@@ -17,6 +17,49 @@ then for crontab
 
 Field trip: Unnamed Unix Operating system store
 
+
+
+Lesson 2, Speed:
+
+Move around with 
+
+within the same line:
+
+f this is the most important key you'll learn today
+; to repeat the last f command
+
+t go until.
+
+
+time trials
+
+editing files quickly with f and t
+
+timed with time cat :cat:
+
+
+{
+}
+
+cntl+f
+cntl+b
+
+if you know the line 
+
+`:102` or : + line number
+
+
+recenter with zz if it gets out of hand
+
+h j k l
+
+gj gk
+
+
+
+
+
+
 Lesson plan 2:
 
 picking up where you left off: `marks
