@@ -43,6 +43,13 @@ Activity 4:
 Sshing into a server and messing with the text.
  
 
+Novelty:
+
+sending encrypted messages in vim
+
+g?
+
+
 
 Starting commands:
 
