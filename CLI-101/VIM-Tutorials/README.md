@@ -32,7 +32,7 @@ Super powerful (you don't really need to leave vim).
 
 Pick up where you left off:
 
-use `\`"` to go to the last place in the file you were editing -- saves a ton of time :thumbsup:
+use ``` `" ``` to go to the last place in the file you were editing -- saves a ton of time :thumbsup:
 
 
 Lesson
