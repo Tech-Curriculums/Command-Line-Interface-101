@@ -21,10 +21,15 @@ Lesson Plan b:
 
 .vimrc file
 
+* syntax on 
+* set filetype plugin on
 * autoindent on
 * set number
 * set wrap
 * set nowrap
+* visualize spaces (important for python and html)
+
+Lesson Plan
 
 
 Other commands
