@@ -37,6 +37,10 @@ editing files quickly with f and t
 
 timed with time cat :cat:
 
+have lights go on and then a buzzer go off with the time spoken.
+
+and have a leaderboard -- that's really all that we need
+
 
 {
 }
