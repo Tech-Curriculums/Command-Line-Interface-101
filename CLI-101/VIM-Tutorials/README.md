@@ -208,11 +208,14 @@ git pull origin master
 ```
 
 #### afterwards:
-`git add *`
-`git commit`
-`git push origin master`
+```sh
+git add *
+git commit`
+git push origin master
+```
 
-
+#### New Plugin:
+Fugitive
 
 
 ### Lesson Plan: `Wat?`
