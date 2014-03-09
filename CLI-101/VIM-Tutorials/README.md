@@ -1,8 +1,8 @@
-supplementary material.
+# supplementary material.
 
 Vim is cool becuase there is so much we can do with it, and basic level is not that bad.
 
-Lesson Plan:
+## Lesson Plan:
 
 1. opening vim (or apt-getting it)
 2. getting into insert mode
@@ -15,11 +15,13 @@ Lesson Plan:
 First for a bash script with say and open commands
 then for crontab
 
-Field trip: Unnamed Unix Operating system store
+---
 
+## Field trip: Unnamed Unix Operating system store
 
+---
 
-Lesson 2, Speed:
+## Lesson 2, Speed:
 
 Move around with 
 
@@ -31,7 +33,7 @@ f this is the most important key you'll learn today
 t go until.
 
 
-time trials
+## time trials
 
 editing files quickly with f and t
 
@@ -60,13 +62,13 @@ h j k l
 gj gk
 
 
+---
 
 
 
+## Lesson plan 2:
 
-Lesson plan 2:
-
-picking up where you left off: `marks
+### picking up where you left off: `marks
 
 use `m` then any letter to set a mark
 `ma` makes `a` a mark
@@ -77,15 +79,18 @@ use capital letters to set a global mark -- this is the fastest way of zooming b
 
 Super powerful (you don't really need to leave vim).
 
-Pick up where you left off:
+### Pick up where you left off:
 
 use ``` `" ``` to go to the last place in the file you were editing -- saves a ton of time :thumbsup:
 
+`g;` nad `g,` to browse last edits
 
-Lesson
 
+`cntl + o` and `cntl + i` to surf the jump list (last jumps)
 
-Lesson Plan b:
+---
+
+### Lesson Plan b:
 
 .vimrc file
 
@@ -98,7 +103,20 @@ Lesson Plan b:
 * visualize spaces (important for python and html)
 
 
-Lesson Plan:
+Pathogen and how to install a plugin from github:
+
+Command-T, Surround, Snippet
+
+
+CTAGS, Omnicomplete
+
+#### Bonus if we have time:
+
+How to add snippets.
+
+---
+
+## Lesson Plan:
 
 Copypasta And Selection in vim:
 
@@ -116,25 +134,53 @@ p for paste -- or P for paste
 pasting inline, pasting before, pasting after
 
 
-Mass editing:
+---
 
-macros
+## Lesson Plan: Mass editing:
+
+### macros
 * running in series
 * running in parallel
 
-discussion
+discussion about usage
 
-command mode substitution
+Registers and how to edit your macros.
+
+The meaning of registers: for yanks, dd's, macros all share the registers
+
+thankfully marks are separate.
+
+
+### command mode substitution
 
 search and do with the . macro.
 
 
-Programming in Vim:
 
-Simple python hello world.
+
+## Lesson Plan: Programming in Vim
+
+### Simple python hello world.
+
+:write !python
+
 Simple bash script -- check for word appearance
-Simple c program.
-Simple Arduino program
+
+:write !bash
+
+Simple c program and makefile
+
+:make name_of_program
+
+Simple Arduino program with the ino repository
+
+:!ino build && ino uplaod
+
+Simple AVR Program with CrossMake
+
+:!make all
+
+
 
 Using vim with git:
 
