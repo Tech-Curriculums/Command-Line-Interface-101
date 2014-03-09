@@ -163,23 +163,29 @@ search and do with the . macro.
 
 ### Simple python hello world.
 
-:write !python
+Python has an interpreter, but if you want to write a script, you'll often need to use an editor.
+
+Vim is best as it can test script quickly:
+
+`:write !python`
+
+`:w !python`
 
 Simple bash script -- check for word appearance
 
-:write !bash
+`:write !bash`
 
 Simple c program and makefile
 
-:make name_of_program
+`:make name_of_program`
 
 Simple Arduino program with the ino repository
 
-:!ino build && ino uplaod
+`:!ino build && ino uplaod`
 
 Simple AVR Program with CrossMake
 
-:!make all
+`:!make all`
 
 
 
@@ -188,8 +194,18 @@ Simple AVR Program with CrossMake
 
 ### setting up
 `git init` -- starts keeping track of changes (allows you to take snapshots)
-`git remote add name_of_remote url`       example `git remote add Robox http://www.github.com/gskielian/Robox`
-`git pull name_of_remote name_of_branch`  example `git pull origin master`
+`git remote add name_of_remote url`       
+
+`git pull name_of_remote name_of_branch`  
+
+*example*
+```sh
+mkdir A_project
+cd A_project
+git init
+git remote add Robox http://www.github.com/gskielian/Robox`
+git pull origin master
+```
 
 #### afterwards:
 `git add *`
@@ -199,42 +215,19 @@ Simple AVR Program with CrossMake
 
 
 
-
-
-
-
-
-Lesson Plan
+### Lesson Plan: `Wat?`
 
 Other commands
-* set paste
-* 
+* `set paste` -- otherwise won't paste right
+* encryption -- `g?g?` for rot13
 
 Why would you use vim?
 
-Activity 4:
+#### Activity 4:
 
 Sshing into a server and messing with the text.
+
+---
  
-
-Novelty:
-
-sending encrypted messages in vim
-
-g?
-
-
-
-Starting commands:
-
-fast moving in normal mode
-
-getting to and from insert mode
-
-
-
-
-Figure out permutations which reduce the time to next gc, or to minimize the base "b".
-
 
 http://www.openvim.com/tutorial.html
