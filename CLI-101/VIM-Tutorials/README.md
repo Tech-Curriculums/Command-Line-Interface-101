@@ -183,14 +183,18 @@ Simple AVR Program with CrossMake
 
 
 
-Using vim with git:
 
-git init -- starts keeping track of changes (allows you to take snapshots)
-git remote add name_of_remote url
+### OctoVim Day: Using vim with git:
 
-git add *
-git commit 
-git push origin master
+### setting up
+`git init` -- starts keeping track of changes (allows you to take snapshots)
+`git remote add name_of_remote url`       example `git remote add Robox http://www.github.com/gskielian/Robox`
+`git pull name_of_remote name_of_branch`  example `git pull origin master`
+
+#### afterwards:
+`git add *`
+`git commit`
+`git push origin master`
 
 
 
