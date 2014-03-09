@@ -1,4 +1,4 @@
-# supplementary material.
+# Supplementary Material
 
 Vim is cool becuase there is so much we can do with it, and basic level is not that bad.
 
