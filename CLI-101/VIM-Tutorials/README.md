@@ -27,11 +27,12 @@ Move around with
 
 within the same line:
 
-f this is the most important key you'll learn today
-; to repeat the last f command
+`f` this is the most important key you'll learn today
+`;` to repeat the last f command
 
-t go until.
+`t` go until.
 
+`F` and `T` same thing but backwards.
 
 ## time trials
 
