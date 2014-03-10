@@ -8,7 +8,7 @@ This ability will be considered by many of your friends to be **hacking**.
 
 Typical Uses:
 
-* Added `Hotfixes` :hot: to your website/web-application. 
+* Added `Hotfixes` to your website/web-application. 
 * System Administration -- locking down your server from being trolled.
 * Getting files from a Server or another computer (using `scp` transfer protocol)
 
