@@ -10,7 +10,7 @@ Vim is better, but I'll still teach this to you so you will be able to be profic
 
 Nano in a nutshell:
 
-*Saving and stuff:*
+*Saving and stuff*
 
 * `Cntl + o` save
 * `Cntl + x` exit (and nano will ask if it should save)
