@@ -6,7 +6,7 @@ While not as powerful or as ubiquitous as Vim, Nano is becoming more widely adop
 Vim is better, but I'll still teach this to you so you will be able to be proficient in this environment.
 
 
-## Command List:
+## Command List
 
 Nano in a nutshell:
 
