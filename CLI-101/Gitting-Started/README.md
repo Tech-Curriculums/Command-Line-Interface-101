@@ -75,11 +75,12 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 
 [Check out the Octodex](http://octodex.github.com/) :octocat:
 
+
+[best news site ever!](https://news.ycombinator.com) :newspaper:
+
 [link to a another file in same folder](./thelink.md) 
 
 [link to a file in previous folder](../README.md)
-
-[best news site ever](https://news.ycombinator.com) :news:
 
 ---
 
