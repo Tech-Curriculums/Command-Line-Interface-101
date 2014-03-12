@@ -38,11 +38,11 @@ http://www.emoji-cheat-sheet.com/
 99% of the time, you can get away with just knowing `#` and <code>&#96;&#96;&#96;</code> and 
   ``` ` ```
 
-# This is a title (# content)
-## This is a headline (## content)
-### this is a sub-headline (### content)
-#### sub-sub-headine (#### content)
-##### sub-sub-sub ... (...)
+# This is a title (# the title)
+## This is a headline (## ur headline)
+### this is a sub-headline (### ur sub-headline)
+#### sub-sub-headine (#### subsub...)
+##### sub-sub-sub ... (##### ...)
 
 ---
 
