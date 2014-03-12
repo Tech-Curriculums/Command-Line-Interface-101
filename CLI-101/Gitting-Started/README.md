@@ -14,9 +14,16 @@ essentials of git
  
 ## Examples of each
 
-:fire:  
-:space_invader:  
+:fire: 
+`:fire:`
+
+:space_invader: 
+`:space_invader:`
+
 :bird:  
+`etc`
+
 :cherry_blossom: 
+`etc`
 
 http://www.emoji-cheat-sheet.com/
