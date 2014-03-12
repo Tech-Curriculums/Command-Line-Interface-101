@@ -98,7 +98,7 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 <img src="http://octodex.github.com/images/octonaut.jpg" alt="needs 2 be here">
 
 
-##### Which has the advantage of being able to be centered and resized
+##### Which has the advantage of being able to be centered and sized precisely
 
 ```html
 <p align="center">
