@@ -12,7 +12,7 @@
   * `![ ](url)` for images
   * newlines (content vs presentation)
 
---- 
+===
 
 ## Examples of each
 
@@ -32,7 +32,7 @@
 
 http://www.emoji-cheat-sheet.com/
 
-===
+---
 
 ### Heading basics:
 
@@ -45,7 +45,7 @@ http://www.emoji-cheat-sheet.com/
 #### sub-sub-headine
 ##### sub-sub-sub ...
 
-===
+---
 
 ### Code Blocks
 
@@ -63,7 +63,7 @@ function Hola () {
 
 ```
 
-===
+---
 
 ### One-Liners
 
