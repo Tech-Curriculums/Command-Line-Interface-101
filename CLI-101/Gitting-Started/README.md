@@ -91,6 +91,7 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 
 ![text toshow if img phails](http://octodex.github.com/images/daftpunktocat-thomas.gif)
 
+===
 
 #### The long way
 
