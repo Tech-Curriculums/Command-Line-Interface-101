@@ -10,9 +10,11 @@ Sequence
 
 ## Github WebHosting
 
-It's free -- you heard me!
+It's *free* -- you heard me!
 
-While it may take up to 10 minutes to load changes, it is usually instantaneous.
+Notes, while it may take up to 10 minutes to load changes, it is usually instantaneous.
+
+### Topics:
 
 - Your Own Github Page 
   - title the repo `username.github.io`
