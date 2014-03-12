@@ -7,6 +7,8 @@ Sequence
 - adding friends
 - selecting your gravatar
 
+## Hello Octocat
+
 - creating first repository
 - Preparing to Make your Mark -- the README.md file
 - Adding Code
