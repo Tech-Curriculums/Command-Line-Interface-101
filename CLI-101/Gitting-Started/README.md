@@ -73,13 +73,13 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 
 ### Hyperlinks
 
-[Check out the Octodex](http://octodex.github.com/)
+[Check out the Octodex](http://octodex.github.com/) :octocat:
 
-[link to a another file in same folder](./thelink.md)
+[link to a another file in same folder](./thelink.md) 
 
 [link to a file in previous folder](../README.md)
 
-[best news site ever](https://news.ycombinator.com)
+[best news site ever](https://news.ycombinator.com) :news:
 
 ---
 
