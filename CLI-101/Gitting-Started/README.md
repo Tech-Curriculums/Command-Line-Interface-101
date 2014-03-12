@@ -1,7 +1,7 @@
 Sequence
 ========
 
-## Getting
+## Starting
 
 - creating a github account
 - adding friends
