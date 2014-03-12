@@ -13,6 +13,6 @@ essentials of git
  
 ## Examples of each
 
-:fire:  :cool:  :bird:  :cherryblossom: :light:
+:fire:  :space_invader:  :bird:  :cherry_blossom: 
 
 http://www.emoji-cheat-sheet.com/
