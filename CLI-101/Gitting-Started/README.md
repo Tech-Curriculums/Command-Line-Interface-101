@@ -126,4 +126,4 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 Can start with quotes too to make cool intros.
 
 > Optimization is the root of all evil
--- Some coder
+-- an epic coder
