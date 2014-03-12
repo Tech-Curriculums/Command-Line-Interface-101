@@ -17,7 +17,7 @@ Sequence
 
 ## Github WebHosting
 
-*totally free* -- that's right :thumbsup:
+*free webhosting, complementary of Github* :thumbsup:
 
 Notes, while it may take up to 10 minutes to load changes, it is usually instantaneous :zap:.
 
