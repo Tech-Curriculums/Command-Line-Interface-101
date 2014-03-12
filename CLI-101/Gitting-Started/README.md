@@ -82,6 +82,7 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 
 ### Images two ways
 
+===
 
 #### the fast way
 
@@ -113,3 +114,5 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 <p align="center">
 <img width="20%" align="center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">
 </p>
+
+===
