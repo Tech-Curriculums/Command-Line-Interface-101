@@ -1,6 +1,7 @@
 Sequence
 ========
 
+
 ## Starting
 
 - creating a github account
