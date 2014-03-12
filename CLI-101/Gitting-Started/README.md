@@ -1,4 +1,3 @@
-
 essentials of git
 
 * Markdown
@@ -7,4 +6,4 @@ essentials of git
   * `===` for titles
   * `#` for various headers
   * `>` for quotes
-  * \` \`\`\` \`
+  * ` \`\`\` \
