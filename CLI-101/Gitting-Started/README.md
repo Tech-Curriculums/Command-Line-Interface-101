@@ -12,7 +12,7 @@
   * `![ ](url)` for images
   * newlines (content vs presentation)
 
-===
+---
 
 ## Examples of each
 
