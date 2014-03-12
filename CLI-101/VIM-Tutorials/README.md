@@ -48,15 +48,15 @@ and have a leaderboard -- that's really all that we need
 {
 }
 
-cntl+f
-cntl+b
+cntl+u -- go up
+cntl+d -- go down
 
 if you know the line 
 
 `:102` or : + line number
 
 
-recenter with zz if it gets out of hand
+recenter with `zz` if it gets out of hand
 
 h j k l
 
