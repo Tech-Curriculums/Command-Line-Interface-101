@@ -30,12 +30,12 @@
 
 http://www.emoji-cheat-sheet.com/
 
+---
+
 ### Heading basics:
 
 99% of the time, you can get away with just knowing `#` and <code>&#96;&#96;&#96;</code> and 
   ``` ` ```
-
-*In short:*
 
 # This is a title
 ## This is a headline
@@ -43,3 +43,26 @@ http://www.emoji-cheat-sheet.com/
 #### sub-sub-headine
 ##### sub-sub-sub ...
 
+---
+
+### Code Blocks
+
+```C
+int main(void) {
+ printf("Hello World");
+ return 0;
+}
+```
+
+```Javascript
+function Hola () {
+ console.log("Hello World");
+}
+
+```
+
+---
+
+### One-Liners
+
+to clone this in git, just use `git clone https://github.com/gskielian/Command-Line-Ninja-Curriculum.git`
