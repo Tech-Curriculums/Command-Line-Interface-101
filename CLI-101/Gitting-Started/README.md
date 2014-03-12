@@ -93,9 +93,14 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 <img src="http://www.some-website/ur_image.jpg" alt="text to show if image phails to load"> 
 ```
 
-<img src="http://octodex.github.com/octonaut/" >
+<img src="http://octodex.github.com/images/octonaut.jpg" alt="needs 2 be here">
 
 
 ##### Which has the advantage of being able to be centered
 
-<img style="text-align:center" src="http://octodex.github.com/octonaut/" alt="me? fail? never">
+<img style="text-align:center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">
+
+##### and resized
+
+<img style="text-align:center; width:30%;" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">
+
