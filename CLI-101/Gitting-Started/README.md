@@ -4,11 +4,11 @@
   * :squirrel: emoji
   * `---` for horizontal line
   * `#` for various headers
-  * `>` for quotes
   * <code>&#96;&#96;&#96;</code> for long lines of code
   * ``` ` ``` for words of code
   * `[click here](url)` syntax for ur [hyperlinks](https://help.github.com/articles/markdown-basics)
   * `![ ](url)` for images
+  * `>` for quotes
   * newlines (content vs presentation)
 
 ---
