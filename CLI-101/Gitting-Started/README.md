@@ -11,4 +11,4 @@ essentials of git
  
 ## Examples of each
 
-:fire: :happy: :cool: :great: :laugh:
+:fire: :ice: :cool: :earth: :electricity:
