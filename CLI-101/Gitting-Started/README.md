@@ -2,8 +2,8 @@
 
 * Markdown
   * :squirrel: emoji
-  * `---` for headers
-  * `===` for titles
+  * `===` for horizontal line (regular)
+  * `---` for horizontal line (thick)
   * `#` for various headers
   * `>` for quotes
   * <code>&#96;&#96;&#96;</code> for long lines of code
