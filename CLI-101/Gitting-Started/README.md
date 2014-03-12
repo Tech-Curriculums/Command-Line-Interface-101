@@ -82,7 +82,9 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 
 #### the fast way
 
-`![alt text](http://www.somewebsite.com/ur_image.jpg)`
+```md
+![alt text](http://www.somewebsite.com/ur_image.jpg)
+```
 
 ![text toshow if img phails](http://octodex.github.com/images/daftpunktocat-thomas.gif)
 
