@@ -15,7 +15,7 @@
 
 ## Examples of each
 
-### Emoji
+### :Emoji:
 
 :fire: 
 `:fire:`
@@ -33,7 +33,7 @@ http://www.emoji-cheat-sheet.com/
 
 ---
 
-### Heading basics:
+### Heading basics
 
 99% of the time, you can get away with just knowing `#` and <code>&#96;&#96;&#96;</code> and 
   ``` ` ```
