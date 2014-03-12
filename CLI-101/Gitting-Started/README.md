@@ -2,8 +2,7 @@
 
 * Markdown
   * :squirrel: emoji
-  * `===` for horizontal line (regular)
-  * `---` for horizontal line (thick)
+  * `---` for horizontal line
   * `#` for various headers
   * `>` for quotes
   * <code>&#96;&#96;&#96;</code> for long lines of code
@@ -68,3 +67,5 @@ function Hola () {
 ### One-Liners
 
 to clone this in git, just use `git clone https://github.com/gskielian/Command-Line-Ninja-Curriculum.git`
+
+---
