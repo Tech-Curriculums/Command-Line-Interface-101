@@ -69,3 +69,33 @@ function Hola () {
 to clone this in git, just use `git clone https://github.com/gskielian/Command-Line-Ninja-Curriculum.git`
 
 ---
+
+
+### Hyperlinks
+
+[Check out the Octodex](http://octodex.github.com/)
+[link to a another file in same folder](./thelink.md)
+[link to a file in previous folder](../README.md)
+
+### Images two ways
+
+
+#### the fast way
+
+`![alt text](http://www.somewebsite.com/ur_image.jpg)
+
+![text toshow if img phails](http://octodex.github.com/images/daftpunktocat-thomas.gif)
+
+
+#### The long way
+
+```html 
+<img src="http://www.some-website/ur_image.jpg" alt="text to show if image phails to load"> 
+```
+
+<img src="http://octodex.github.com/octonaut/" >
+
+
+##### Which has the advantage of being able to be centered
+
+<img style="text-align:center" src="http://octodex.github.com/octonaut/" alt="me? fail? never">
