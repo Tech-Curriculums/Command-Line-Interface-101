@@ -82,7 +82,7 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 
 #### the fast way
 
-`![alt text](http://www.somewebsite.com/ur_image.jpg)
+`![alt text](http://www.somewebsite.com/ur_image.jpg)`
 
 ![text toshow if img phails](http://octodex.github.com/images/daftpunktocat-thomas.gif)
 
@@ -98,9 +98,14 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 
 ##### Which has the advantage of being able to be centered
 
+
+`<img style="text-align:center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">`
+
 <img style="text-align:center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">
 
 ##### and resized
 
-<img style="text-align:center; width:30%;" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">
+`<img style="text-align:center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">`
+
+<img width="20%" style="text-align:center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">
 
