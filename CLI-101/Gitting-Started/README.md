@@ -8,7 +8,11 @@ essentials of git
   * `>` for quotes
   * <code>&#96;&#96;&#96;</code> for long lines of code
   * ``` ` ``` for words of code
+  * `[click here](url)` syntax for ur [hyperlinks](https://help.github.com/articles/markdown-basics)
+  * `![ ](url)` for images
  
 ## Examples of each
 
-:fire: :cool: :bird: :cherry: :electricity:
+:fire:  :cool:  :bird:  :cherry: :electricity:
+
+http://www.emoji-cheat-sheet.com/
