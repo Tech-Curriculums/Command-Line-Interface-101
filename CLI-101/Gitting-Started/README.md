@@ -11,4 +11,4 @@ essentials of git
  
 ## Examples of each
 
-:fire: :ice: :cool: :earth: :electricity:
+:fire: :cool: :bird: :cherry: :electricity:
