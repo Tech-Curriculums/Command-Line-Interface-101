@@ -99,7 +99,9 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 ##### Which has the advantage of being able to be centered
 
 
-`<img align="center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">`
+```html
+<img align="center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">
+```
 
 <img style="text-align:center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">
 
