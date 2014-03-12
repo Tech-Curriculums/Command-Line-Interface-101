@@ -10,9 +10,13 @@ essentials of git
   * ``` ` ``` for words of code
   * `[click here](url)` syntax for ur [hyperlinks](https://help.github.com/articles/markdown-basics)
   * `![ ](url)` for images
+  * newlines (content vs presentation)
  
 ## Examples of each
 
-:fire:  :space_invader:  :bird:  :cherry_blossom: 
+:fire:  
+:space_invader:  
+:bird:  
+:cherry_blossom: 
 
 http://www.emoji-cheat-sheet.com/
