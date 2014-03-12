@@ -19,7 +19,7 @@ Sequence
 
 **free webhosting, complementary of Github**
 
-Notes: while it may take up to 10 minutes to load changes, it is usually updates instantaneously.
+Notes: while it may take up to 10 minutes to load changes, it is usually updates :zap: instantaneously.
 
 ### Topics:
 
