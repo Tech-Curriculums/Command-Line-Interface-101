@@ -14,6 +14,8 @@
  
 ## Examples of each
 
+### Emoji
+
 :fire: 
 `:fire:`
 
@@ -27,3 +29,17 @@
 `etc`
 
 http://www.emoji-cheat-sheet.com/
+
+### Heading basics:
+
+99% of the time, you can get away with just knowing `#` and <code>&#96;&#96;&#96;</code> and 
+  ``` ` ```
+
+*In short:*
+
+# This is a title
+## This is a headline
+### this is a sub-headline
+#### sub-sub-headine
+##### sub-sub-sub ...
+
