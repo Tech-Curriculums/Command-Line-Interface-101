@@ -17,7 +17,7 @@ Sequence
 
 It's *free* -- you heard me!
 
-Notes, while it may take up to 10 minutes to load changes, it is usually instantaneous.
+Notes, while it may take up to 10 minutes to load changes, it is usually instantaneous :zap:.
 
 ### Topics:
 
