@@ -17,7 +17,7 @@ Sequence
 
 ## Github WebHosting
 
-**free webhosting, complementary of Github**, and it is awesome.
+**free webhosting, complementary of Github**
 
 Notes, while it may take up to 10 minutes to load changes, it is usually instantaneous :zap:.
 
