@@ -20,7 +20,7 @@ essentials of git
 :space_invader: 
 `:space_invader:`
 
-:bird:  
+:bird: 
 `etc`
 
 :cherry_blossom: 
