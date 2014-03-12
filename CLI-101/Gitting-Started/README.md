@@ -1,4 +1,4 @@
-essentials of git
+# Essentials of git
 
 * Markdown
   * :squirrel: emoji
