@@ -1,7 +1,7 @@
 essentials of git
 
 * Markdown
-  * emoji :shipit:
+  * :squirrel: emoji
   * `---` for headers
   * `===` for titles
   * `#` for various headers
