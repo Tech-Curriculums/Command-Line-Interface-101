@@ -8,7 +8,7 @@ This ability will be considered by many of your friends to be **hacking**.
 
 Typical Uses:
 
-* Added :fire: `Hotfixes` :fire: to your website/web-application. 
+* :fire: `Hotfixes` :fire: -- live editing of your website/web-application. 
 * System Administration -- locking down your server from being trolled.
 * System Admin -- checking in on your system with the power of the command line
 * Setting up a Server or another computer remotely
