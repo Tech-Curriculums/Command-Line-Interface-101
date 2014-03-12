@@ -99,13 +99,13 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 ##### Which has the advantage of being able to be centered
 
 
-`<img style="text-align:center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">`
+`<img align="center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">`
 
 <img style="text-align:center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">
 
 ##### and resized
 
-`<img style="text-align:center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">`
+`<img align="center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">`
 
-<img width="20%" style="text-align:center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">
+<img width="20%" align="center" src="http://octodex.github.com/images/octonaut.jpg" alt="me? fail? never">
 
