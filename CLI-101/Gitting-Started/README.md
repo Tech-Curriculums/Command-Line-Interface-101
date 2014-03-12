@@ -77,6 +77,9 @@ to clone this in git, just use `git clone https://github.com/gskielian/Command-L
 [link to a another file in same folder](./thelink.md)
 [link to a file in previous folder](../README.md)
 
+
+---
+
 ### Images two ways
 
 
