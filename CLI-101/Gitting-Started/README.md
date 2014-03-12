@@ -1,11 +1,16 @@
 Sequence
 ========
 
+## Getting
+
 - creating a github account
+- adding friends
+- selecting your gravatar
+
 - creating first repository
 - Preparing to Make your Mark -- the README.md file
 - Adding Code
-- Git Commit Messages
+- Git Commit Messages -- for major changes
 
 
 ## Github WebHosting
