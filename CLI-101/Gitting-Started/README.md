@@ -24,6 +24,6 @@ Notes, while it may take up to 10 minutes to load changes, it is usually instant
 - Your Own Github Hosted Site 
   - title the repo `username.github.io`
   - Quickstart method: forking template sites and renaming it `username.github.io`
-  - full control, 100% free.
+  - Use web editor or clone to edit HTML/CSS/Javascript then update.
 - Creating a Project Page 
   - create a branch called `gh-pages`
