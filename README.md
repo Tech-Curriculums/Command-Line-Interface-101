@@ -17,6 +17,8 @@ Become a command line ninja.
 
 **If not already everyone has a github account**
 
+### day 1
+
 * date
 * say
 * echo
@@ -27,8 +29,13 @@ Become a command line ninja.
 ### Project 1:
 **make a music based alarm:**
 
+* save on github
+
 ### Project 2:
 **make a youtube based alarm**
+
+* save on github
+
 
 ## Looking cool
 
