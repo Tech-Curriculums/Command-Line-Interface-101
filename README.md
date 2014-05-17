@@ -1,10 +1,9 @@
 Command-Line-Ninja-Curriculum
 =============================
 
-Become a command line ninja.   Resources and Curriculum
+Become a command line ninja.
 
 ![img](./img/hackertyper.gif)
-
 
 
 
@@ -12,14 +11,28 @@ Become a command line ninja.   Resources and Curriculum
 
 
 
+## Introduction
+
+### github
+
+**If not already everyone has a github account**
 
 * date
 * say
 * echo
 * vim
-* open/xdg-open
-* alias
+* open/xdg-open any file
 * crontab
+
+### Project 1:
+**make a music based alarm:**
+
+### Project 2:
+**make a youtube based alarm**
+
+## Looking cool
+
+* alias -- speed values
 * tmux -- screen multiplexing and looking cool
 
 ### moving around
