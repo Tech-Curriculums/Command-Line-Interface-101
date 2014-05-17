@@ -6,14 +6,41 @@ Become a command line ninja.   Resources and Curriculum
 ![img](./img/hackertyper.gif)
 
 
-TODO:
-
-Make a gif of this site for the Github README.md 
-* http://hackertyper.com/
 
 
-Curriculum
+## Curriculum
 
+
+
+
+* date
+* say
+* echo
+* vim
+* open/xdg-open
+* alias
+* crontab
+* tmux -- screen multiplexing and looking cool
+
+### moving around
+
+cntl-a
+cntl-e
+alt-(left/right)
+cntl-u
+cntl-k
+cntl-l
+
+
+### Round 1:
+
+* mkdir
+* rm
+* shutdown
+* ssh
+
+
+* find
 
 
 TODO:
@@ -26,3 +53,5 @@ http://www.commandlinefu.com/commands/view/6130/use-screen-as-a-terminal-emulato
 vimgolf
 
 explainshell
+
+* http://hackertyper.com/
