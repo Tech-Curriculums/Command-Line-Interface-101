@@ -10,6 +10,10 @@ Make a gif of this site for the Github README.md
 * http://hackertyper.com/
 
 
+Curriculum
+
+
+
 TODO:
 
 have these bookmarked
