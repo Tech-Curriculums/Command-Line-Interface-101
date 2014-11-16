@@ -75,3 +75,7 @@ vimgolf
 explainshell
 
 * http://hackertyper.com/
+
+Zsh, as an alternative shell":
+
+* http://code.joejag.com/2014/why-zsh.html
