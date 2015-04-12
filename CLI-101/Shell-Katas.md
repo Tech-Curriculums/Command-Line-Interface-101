@@ -3,28 +3,36 @@
 #### Movements
 
 `<Cntl + a>` - move to beginning of the line
+
 `<Cntl + e>` - move to the end of the line
 
+
 `<alt left>` - move back one word
+
 `<alt right>` - move right one word
 
+
 `<up>` - go to previous command
+
 `<down>` - go to more recent command
 
 #### Deleting 
 
 `<Cntl + w>` - delete back to the last whitespace
+
 `<Cntl + u>` - delete everything to the left of the cursor
+
 `<Cntl + k>` - delet everything to the right of the cursor
 
-*Delete entire line*
+**Delete entire line**
+
 `<Cntl + uk>`
 
 #### Katas
 
 Note: run through these exercises in order
 
-** Prepending **
+**Prepending**
 
 Type in the following:
 
@@ -37,7 +45,7 @@ use the following to add sudo.
 `<up><Cntl + a>` then type `sudo ` and run the command
 
 
-** replace last argument ** 
+**replace last argument**
 
 replace `figlet` with `cowsay``
 
