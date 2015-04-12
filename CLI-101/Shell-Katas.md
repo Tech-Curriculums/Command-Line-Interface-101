@@ -2,31 +2,26 @@
 
 #### Movements
 
-`<Cntl + a>` - move to beginning of the line
-
-`<Cntl + e>` - move to the end of the line
-
-
-`<alt left>` - move back one word
-
-`<alt right>` - move right one word
+* `<Cntl + a>` - move to beginning of the line
+* `<Cntl + e>` - move to the end of the line
 
 
-`<up>` - go to previous command
+* `<alt left>` - move back one word
+* `<alt right>` - move right one word
 
-`<down>` - go to more recent command
+
+* `<up>` - go to previous command
+* `<down>` - go to more recent command
 
 #### Deleting 
 
-`<Cntl + w>` - delete back to the last whitespace
-
-`<Cntl + u>` - delete everything to the left of the cursor
-
-`<Cntl + k>` - delet everything to the right of the cursor
+* `<Cntl + w>` - delete back to the last whitespace
+* `<Cntl + u>` - delete everything to the left of the cursor
+* `<Cntl + k>` - delet everything to the right of the cursor
 
 **Delete entire line**
 
-`<Cntl + uk>`
+* `<Cntl + uk>`
 
 #### Katas
 
