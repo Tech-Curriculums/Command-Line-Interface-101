@@ -53,9 +53,10 @@ replace `figlet` with `cowsay``
 
 first: `<up><Cntl + w>` then fill-in `cowsay` 
 
-(Should look like this `sudo apt-get install cowsay`)
+Final result should look like this:
+`sudo apt-get install cowsay`
 
-The above method will save you a lot of typing.
+*Note: The above method will save you a lot of typing.*
 
 
 ---
