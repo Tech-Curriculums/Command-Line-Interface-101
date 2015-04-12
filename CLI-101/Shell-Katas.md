@@ -1,6 +1,6 @@
-## Shell Katas
+# Shell Katas
 
-#### Movements
+### Movements
 
 
 **beggining/end**
@@ -18,7 +18,7 @@
 * `<up>` - go to previous command
 * `<down>` - go to more recent command
 
-#### Deleting 
+### Deleting 
 
 * `<Cntl + w>` - delete back to the last whitespace
 * `<Cntl + u>` - delete everything to the left of the cursor
@@ -28,7 +28,9 @@
 
 * `<Cntl + uk>`
 
-#### Katas
+---
+
+### Katas
 
 Note: run through these exercises in order
 
@@ -54,3 +56,6 @@ first: `<up><Cntl + w>` then fill-in `cowsay`
 (Should look like this `sudo apt-get install cowsay`)
 
 The above method will save you a lot of typing.
+
+
+---
